@@ -1,0 +1,15 @@
+https://www.youtube.com/watch?v=eRN4WmoaCDY
+https://www.youtube.com/watch?v=DPb7pCoempY
+https://www.youtube.com/watch?v=V5Nux-3QmBw
+https://www.youtube.com/watch?v=rD8iXrvL2EY
+https://www.youtube.com/watch?v=DwTogmKwYWo
+
+
+Video ID / sCPNeRN4WmoaCDY / MVR3 P48D D6Q0
+Viewport / Frames220x124 / 0 dropped of 67
+Current / Optimal Res640x360@30 / 640x360@30
+Volume / Normalized70% / 70% (content loudness -3.4dB)
+Codecsvp09.00.51.08.01.01.01.01 (243) / opus (251)
+Colorbt709 / bt709
+Connection Speed55259 Kbps
+Network Activity
